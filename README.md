@@ -1,6 +1,6 @@
 # -InstaBot
 
-This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. The project was divided into two parts: Part-I and Part-II.
+This project was divided into two parts: Part-I and Part-II.
 
 Motivation: Your friend has opened a new Food Blogging handle on Instagram and wants to get famous. He wants to follow a lot of people so that he can get noticed quickly but it is a tedious task so he asks you to help him. As you have just learned automation using Selenium, you decided to help him by creating an Instagram Bot.
 
@@ -59,3 +59,5 @@ Followers : Likes ratio is calculated as follows:
 3.2 Calculate the average likes for a handle.
 3.3 Divide the average likes obtained from the number of followers of the handle to get the average followers:like ratio of each handle.
 3.4 Create a bar graph to depict the above obtained information.
+
+This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. 
